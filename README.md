@@ -1,117 +1,46 @@
 <div align="center">
 
-# 👋 Hi, I'm Hala Lafi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=180&section=header&text=HALA%20LAFI&fontSize=55&fontColor=0B0F14&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Web%20Development&descAlignY=62&descSize=18"/>
 
-### 💻 Software Engineer | 🤖 AI Enthusiast | 🌐 Web Developer
+<br>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Software+Engineering+Graduate;AI+%26+Machine+Learning+Enthusiast;Web+Development+%7C+Backend+%7C+SQL;Building+ideas+into+real+projects+%E2%9C%A8" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+NLP+Enthusiast;Full-Stack+Developer;FastAPI+%7C+React+%7C+SQL;Turning+Ideas+Into+Real+Software"/>
 
-<p>
-  <a href="https://github.com/halalafi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<br><br>
 
-</div>
+<a href="https://hala-ahmad.netlify.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logoColor=0B0F14"/>
+</a>
 
----
+<a href="https://linkedin.com/in/halaa-ahmad">
+<img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logoColor=0B0F14"/>
+</a>
 
-## 💫 About Me
+<a href="mailto:halalafi78@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-00D9FF?style=for-the-badge&logoColor=0B0F14"/>
+</a>
 
-🎓 Software Engineering graduate passionate about technology and problem solving.
+<br><br>
 
-🤖 Interested in **Artificial Intelligence, Machine Learning, and NLP**.
-
-🌐 Interested in **Web Development, Backend Development, and SQL**.
-
-🚀 I enjoy turning ideas into practical applications and continuously learning new technologies.
-
-💡 Currently focused on improving my skills and building projects that solve real-world problems.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript"/>
-</p>
-
-### 🗄️ Database & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=sql,mysql,fastapi,nodejs"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-</p>
-
----
-
-# 🚀 Featured Project
-
-## 🤖 EAHealthy
-
-### AI-Powered Arabic Emergency Medical Consultation Chatbot
-
-An AI-based medical chatbot designed to understand Arabic symptoms across different dialects and provide preliminary medical guidance.
-
-**✨ Highlights**
-
-- 🧠 Arabic Natural Language Processing
-- 🗣️ Supports multiple Arabic dialects
-- 🔎 Symptom analysis and classification
-- ⚡ FastAPI backend
-- 🌐 Interactive web interface
-- 📊 TF-IDF & Cosine Similarity
-- 🤖 AI / NLP techniques
-
-> 💡 Built as a Software Engineering graduation project.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=halalafi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halalafi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://komarev.com/ghpvc/?username=halalafi&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## ABOUT
 
-<div align="center">
+I am **Hala Lafi**, a Software Engineering graduate focused on building practical software products across **AI, NLP, backend engineering, web development, and databases**.
 
-<img src="https://streak-stats.demolab.com?user=halalafi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
+I enjoy working from system architecture and APIs to user-facing interfaces, while continuously improving my engineering skills.
 
 ```text
-🤖 Artificial Intelligence
-🧠 Machine Learning
-🌐 Full-Stack Development
-🗄️ Advanced SQL
-☁️ Cloud & DevOps
+Software Engineering
+        ↓
+Backend & APIs
+        ↓
+AI / NLP
+        ↓
+Web Applications
+        ↓
+Real-World Products
