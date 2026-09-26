@@ -172,18 +172,11 @@ Ranked 3rd in graduating class · Overall grade: Very Good
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=halalafi&show_icons=true&count_private=true&border_radius=14&bg_color=F5EDE0&title_color=6F4E37&icon_color=C8A27A&text_color=3E2C23&border_color=D4B896"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halalafi&layout=compact&border_radius=14&bg_color=F5EDE0&title_color=6F4E37&text_color=3E2C23&border_color=D4B896"/>
-
 <img src="https://streak-stats.demolab.com/?user=halalafi&border_radius=14&background=F5EDE0&border=D4B896&stroke=C8A27A&ring=8B6B4E&fire=C8A27A&currStreakNum=3E2C23&sideNums=3E2C23&currStreakLabel=6F4E37&sideLabels=6F4E37&dates=8B6B4E"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=halalafi&bg_color=F5EDE0&color=6F4E37&line=C8A27A&point=6F4E37&area=true&area_color=D4B896&hide_border=true&radius=14"/>
 
 <br/><br/>
 
 <img width="100%" alt="Snake eating through the contribution graph" src="https://raw.githubusercontent.com/halalafi/halalafi/output/github-contribution-grid-snake.svg" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=halalafi&theme=gruvbox_lightyellow&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12"/>
 
 </div>
 
