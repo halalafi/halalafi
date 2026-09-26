@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5EDE0,45:D4B896,100:8B6B4E&height=240&section=header&text=Hala%20Lafi&fontSize=72&fontColor=3E2C23&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20%26%20NLP%20%E2%80%A2%20Backend%20%E2%80%A2%20Full-Stack&descSize=18&descAlignY=58&descAlign=50" alt="Hala Lafi"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5EDE0,100:8B6B4E&height=220&section=header&text=Hala%20Lafi&fontSize=64&fontColor=3E2C23&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20NLP%20%7C%20Backend%20%7C%20Full-Stack&descSize=18&descAlignY=58&descAlign=50" alt="Hala Lafi"/>
 
 <a href="https://github.com/halalafi">
   <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=26&duration=3200&pause=1000&color=8B6B4E&center=true&vCenter=true&width=700&height=50&lines=Building+real-world+software%2C+end+to+end;FastAPI+backends+%26+clean+data+models;Arabic-dialect+NLP+that+actually+works;From+schema+to+interface" alt="Typing intro"/>
@@ -27,7 +27,7 @@
 
 ## ☕ About me
 
-<img align="right" width="340" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2400&pause=600&color=6F4E37&multiline=true&width=340&height=150&lines=%3E+hala.status();+;role%3A+AI+Data+Analyst+%40+Concentrix;focus%3A+NLP+%C2%B7+FastAPI+%C2%B7+React;shipping%3A+AI+assistants+for+real+users;languages%3A+Arabic+%C2%B7+English" alt="status"/>
+<img align="right" width="340" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2400&pause=600&color=6F4E37&multiline=true&width=340&height=150&lines=%3E+hala.status();+;role%3A+AI+Data+Analyst+%40+Concentrix;focus%3A+NLP+%C2%B7+FastAPI+%C2%B7+React;shipping%3A+AI+assistants+for+real+users;languages%3A+Arabic%2C+English" alt="status"/>
 
 Software Engineering graduate, **ranked 3rd in my class**, who builds products end to end — FastAPI backends, normalized relational schemas, React interfaces, and the NLP services that tie them together.
 
@@ -181,10 +181,7 @@ Ranked 3rd in graduating class · Overall grade: Very Good
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/halalafi/halalafi/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" alt="Snake eating through the contribution graph" src="https://raw.githubusercontent.com/halalafi/halalafi/output/github-contribution-grid-snake.svg" />
-</picture>
+<img width="100%" alt="Snake eating through the contribution graph" src="https://raw.githubusercontent.com/halalafi/halalafi/output/github-contribution-grid-snake.svg" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=halalafi&theme=gruvbox_lightyellow&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12"/>
 
@@ -195,6 +192,6 @@ Ranked 3rd in graduating class · Overall grade: Very Good
 <br/>
 <sub>🗣️ Arabic (native) · English (fluent) — ☕ always open to good conversations about backend and NLP</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B6B4E,55:D4B896,100:F5EDE0&height=130&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B6B4E,100:F5EDE0&height=120&section=footer"/>
 
 </div>
